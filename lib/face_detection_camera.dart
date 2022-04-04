@@ -81,7 +81,7 @@ class _DetectionFromCameraState
     );
 
     if (faces is! List<Face>) return noResultsText;
-    painter = SmilePainterLiveCamera(imageSize, faces);
+    painter = SmilePainterCamera(imageSize, faces);
 
     return CustomPaint(
       painter: painter,

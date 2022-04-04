@@ -59,11 +59,11 @@ class SmilePainter extends CustomPainter {
   }
 }
 
-class SmilePainterLiveCamera extends CustomPainter {
+class SmilePainterCamera extends CustomPainter {
   final Size imageSize;
   final List<Face> faces;
 
-  SmilePainterLiveCamera(this.imageSize, this.faces);
+  SmilePainterCamera(this.imageSize, this.faces);
 
   @override
   void paint(Canvas canvas, Size size) {
@@ -116,7 +116,7 @@ class SmilePainterLiveCamera extends CustomPainter {
   }
 
   @override
-  bool shouldRepaint(SmilePainterLiveCamera oldDelegate) {
+  bool shouldRepaint(SmilePainterCamera oldDelegate) {
     return imageSize != oldDelegate.imageSize || faces != oldDelegate.faces;
   }
 }
