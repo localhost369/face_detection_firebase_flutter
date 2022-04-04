@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\GITHUB_UPLOAD_PROJECTS\\face_detection_firebase_flutter\\build\\image_picker\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-th\\values-th.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\623d12aaf81f3d9e61a68cee090b318e\\res\\values-th\\values-th.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\GITHUB_UPLOAD_PROJECTS\\face_detection_firebase_flutter\\build\\image_picker\\intermediates\\res\\merged\\debug\\values-th\\values-th.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\623d12aaf81f3d9e61a68cee090b318e\\res\\values-th\\values-th.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
