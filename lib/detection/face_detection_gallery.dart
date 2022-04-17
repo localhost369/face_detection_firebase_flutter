@@ -2,7 +2,7 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'dart:io';
-import 'package:face_detector/smile_painter.dart';
+import 'package:face_detector/painter/smile_painter.dart';
 import 'package:firebase_ml_vision/firebase_ml_vision.dart';
 import 'dart:ui' as ui show Image;
 import 'package:image_picker/image_picker.dart';

@@ -1,10 +1,10 @@
-import 'package:face_detector/smile_painter.dart';
+import 'package:face_detector/painter/smile_painter.dart';
 import 'package:flutter/material.dart';
 import 'package:camera/camera.dart';
 import 'package:firebase_ml_vision/firebase_ml_vision.dart';
 import 'package:flutter/foundation.dart';
 import 'dart:ui' as ui show Image;
-import 'utils.dart';
+import '../../utils.dart';
 
 class DetectionFromCamera extends StatefulWidget {
   DetectionFromCamera({Key key}) : super(key: key);
