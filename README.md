@@ -9,8 +9,8 @@ In this project I have implemented the custom painter illustrated in the last vi
 <div style="text-align: center"><table><tr>
   <td style="text-align: center">
   <a href="https://github.com/rakesh4104/face_detection_firebase_flutter">
-    <img src="https://github.com/rakesh4104/face_detection_firebase_flutter" width="200"/></a>
+    <img src="https://github.com/rakesh4104/face_detection_firebase_flutter/blob/master/screenshot01.jpg" width="200"/></a>
     <a href="https://github.com/rakesh4104/face_detection_firebase_flutter">
-    <img src="https://github.com/rakesh4104/face_detection_firebase_flutter" width="200"/></a>
+    <img src="https://github.com/rakesh4104/face_detection_firebase_flutter/blob/master/screenshot02.jpg" width="200"/></a>
 </td>
 </tr></table></div>
